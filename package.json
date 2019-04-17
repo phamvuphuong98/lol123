@@ -1,0 +1,10 @@
+{
+  "name": "serverdevwork",
+  "version": "0.0.1",
+  "description": "demo node.js",
+  "author": "phuong",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "~0.9.6"
+  }
+}
